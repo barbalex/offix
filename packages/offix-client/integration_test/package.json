@@ -26,12 +26,12 @@
     "karma-mocha-reporter": "2.2.5",
     "karma-sourcemap-loader": "0.3.7",
     "karma-webpack": "4.0.2",
-    "mocha": "7.1.1",
+    "mocha": "7.1.2",
     "offix-server-conflicts": "0.6.0",
     "subscriptions-transport-ws": "0.9.16",
-    "webpack": "4.42.1"
+    "webpack": "4.43.0"
   },
   "devDependencies": {
-    "graphback": "0.10.2"
+    "graphback": "0.12.0"
   }
 }
